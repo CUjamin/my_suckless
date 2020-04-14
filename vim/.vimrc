@@ -5,8 +5,10 @@ set number
 set cursorline 
 syntax on
 
+set wrap
 set showmode
-
+set showcmd
+set wildmenu
 
 set showmatch
 set hlsearch
@@ -18,3 +20,7 @@ set spell spelllang=en_us
 set undofile
 set history=200
 set autoread
+
+noremap j h
+noremap i k
+noremap k j
