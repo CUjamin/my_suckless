@@ -14,6 +14,7 @@ set showmatch
 set hlsearch
 set incsearch
 set smartcase
+set ignorecase
 
 set spell spelllang=en_us
 
@@ -21,6 +22,4 @@ set undofile
 set history=200
 set autoread
 
-noremap j h
-noremap i k
-noremap k j
+
