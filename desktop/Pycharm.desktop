@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Pycharm
+GenericName=Pycharm3
+Exec=sh /home/cujamin/program/ide/pycharm-community-2019.2.5/bin/pycharm.sh
+Icon=/home/cujamin/program/ide/pycharm-community-2019.2.5/bin/pycharm.png
+Terminal=pycharm
+Categories=Pycharm;
+
