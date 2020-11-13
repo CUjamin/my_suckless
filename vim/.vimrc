@@ -16,7 +16,6 @@ set incsearch
 set smartcase
 set ignorecase
 
-set spell spelllang=en_us
 
 set undofile
 set history=200
